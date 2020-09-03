@@ -1,0 +1,51 @@
+#Main site name
+site_name: System Documentation methods
+
+#Documentation content management goes here
+nav:
+  - Welcome: index.md
+  - What to know?:  contents/main/pages/what_to_know.md
+  - Directories and files:  contents/main/pages/directories_and_files.md
+  - Working on the contents:
+      - Approach and practices: contents/working_on_the_contents/pages/approach_and_practices.md
+      - Laying out contents: contents/working_on_the_contents/pages/laying_out_contents.md
+  - Templates:
+      - Sample Database:
+          - Overview: contents/templates/_sample_database/pages/overview.md
+          - Schema :
+            - Schema 1: contents/templates/_sample_database/pages/schema/schema_1.md
+            - Schema 2: contents/templates/_sample_database/pages/schema/schema_2.md
+            - Schema 3: contents/templates/_sample_database/pages/schema/schema_3.md
+          - Users :
+            - dob: contents/templates/_sample_database/pages/users/dbo.md
+            - sys: contents/templates/_sample_database/pages/users/sys.md
+            - admin: contents/templates/_sample_database/pages/users/admin.md
+            - guest: contents/templates/_sample_database/pages/users/guest.md
+            - user 2: contents/templates/_sample_database/pages/users/user_2.md
+
+
+#Configurations
+theme:
+  name: material
+  logo: brand.png
+  favicon: brand.png
+  custom_dir: docs/overrides
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: orange
+
+#Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+#      clickable_checkbox: true

@@ -3,25 +3,27 @@ site_name: System Documentation methods
 
 #Documentation content management goes here
 nav:
-  - Welcome: index.md
+  - Welcome:  contents/main/pages/index.md
   - What to know?:  contents/main/pages/what_to_know.md
   - Directories and files:  contents/main/pages/directories_and_files.md
   - Working on the contents:
       - Approach and practices: contents/working_on_the_contents/pages/approach_and_practices.md
-      - Laying out contents: contents/working_on_the_contents/pages/laying_out_contents.md
-  - Templates:
-      - Sample Database:
-          - Overview: contents/templates/_sample_database/pages/overview.md
-          - Schema :
-            - Schema 1: contents/templates/_sample_database/pages/schema/schema_1.md
-            - Schema 2: contents/templates/_sample_database/pages/schema/schema_2.md
-            - Schema 3: contents/templates/_sample_database/pages/schema/schema_3.md
-          - Users :
-            - dob: contents/templates/_sample_database/pages/users/dbo.md
-            - sys: contents/templates/_sample_database/pages/users/sys.md
-            - admin: contents/templates/_sample_database/pages/users/admin.md
-            - guest: contents/templates/_sample_database/pages/users/guest.md
-            - user 2: contents/templates/_sample_database/pages/users/user_2.md
+      - Documentation structure: contents/working_on_the_contents/pages/documentation_structure.md
+  - Sample Documentations:
+      - Notification:
+          - System Overview: contents/sample_documentations/notification/pages/notification.md
+          - Database:
+              - Overview: contents/sample_documentations/notification/pages/database/overview.md
+              - Schema:
+                  - Schema 1: contents/sample_documentations/notification/pages/database/schema/schema_1.md
+                  - Schema 2: contents/sample_documentations/notification/pages/database/schema/schema_2.md
+                  - Schema 3: contents/sample_documentations/notification/pages/database/schema/schema_3.md
+              - Users:
+                  - dob: contents/sample_documentations/_sample_database/pages/users/dbo.md
+                  - sys: contents/sample_documentations/_sample_database/pages/users/sys.md
+                  - admin: contents/sample_documentations/_sample_database/pages/users/admin.md
+                  - guest: contents/sample_documentations/_sample_database/pages/users/guest.md
+                  - user 2: contents/sample_documentations/_sample_database/pages/users/user_2.md
 
 
 #Configurations

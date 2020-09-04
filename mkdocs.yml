@@ -10,20 +10,20 @@ nav:
       - Approach and practices: contents/working_on_the_contents/pages/approach_and_practices.md
       - Documentation structure: contents/working_on_the_contents/pages/documentation_structure.md
   - Sample Documentations:
-      - Notification:
-          - System Overview: contents/sample_documentations/notification/pages/notification.md
-          - Database:
-              - Overview: contents/sample_documentations/notification/pages/database/overview.md
-              - Schema:
-                  - Schema 1: contents/sample_documentations/notification/pages/database/schema/schema_1.md
-                  - Schema 2: contents/sample_documentations/notification/pages/database/schema/schema_2.md
-                  - Schema 3: contents/sample_documentations/notification/pages/database/schema/schema_3.md
-              - Users:
-                  - dob: contents/sample_documentations/_sample_database/pages/users/dbo.md
-                  - sys: contents/sample_documentations/_sample_database/pages/users/sys.md
-                  - admin: contents/sample_documentations/_sample_database/pages/users/admin.md
-                  - guest: contents/sample_documentations/_sample_database/pages/users/guest.md
-                  - user 2: contents/sample_documentations/_sample_database/pages/users/user_2.md
+      - Notification: contents/sample_documentations/notification/pages/notification.md
+#          - System Overview: contents/sample_documentations/notification/pages/notification.md
+#          - Database:
+#              - Overview: contents/sample_documentations/notification/pages/database/overview.md
+#              - Schema:
+#                  - Schema 1: contents/sample_documentations/notification/pages/database/schema/schema_1.md
+#                  - Schema 2: contents/sample_documentations/notification/pages/database/schema/schema_2.md
+#                  - Schema 3: contents/sample_documentations/notification/pages/database/schema/schema_3.md
+#              - Users:
+#                  - dob: contents/sample_documentations/_sample_database/pages/users/dbo.md
+#                  - sys: contents/sample_documentations/_sample_database/pages/users/sys.md
+#                  - admin: contents/sample_documentations/_sample_database/pages/users/admin.md
+#                  - guest: contents/sample_documentations/_sample_database/pages/users/guest.md
+#                  - user 2: contents/sample_documentations/_sample_database/pages/users/user_2.md
 
 
 #Configurations

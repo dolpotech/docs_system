@@ -44,6 +44,3 @@ See the full overview of database [here](./database/overview.md)
 ### References
 
 Any tutorials or external references that are to be taken under consideration.
-
-### Appendix
-The appendix helps provide the full insight overall technologies and concepts used by the particular module. 

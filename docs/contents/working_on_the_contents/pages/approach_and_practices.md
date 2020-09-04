@@ -3,36 +3,12 @@
 ##Approach for documentation
 
 Working on a project and preparing the documentation can be very tedious. Follow these steps for effeciently documenting works.
-
--   Break the work into sections
-     
-     Making a documentation for the whole project is not possible and there are high chance of missing things out. So instead make chunks of works, complete them, cleanup and start documenting them.
      
 -   Collect image snapshots and place them in the directories first
-       
-??? note "Image directory"            
-    ```
-        docs
-        ├───assets
-        ├───contents
-        │   ├───main
-        │   │   ├───assets  -- store image for the section "main"
-        │   │   └───pages
-        │   └───sections
-        │       ├───section_1
-        │       │   ├───assets  --- store image for the section "section_1"
-        │       │   └───pages
-        │       ├───Worked_out_methods
-        │       │   ├───assets  --- store image for the section "worked out methods"
-        │       │   └───pages
-        │       └───working_on_the_contents
-        │           ├───assets  --- store image for the section "working_on_the_contents"
-        │           └───pages
-        └───overrides
-    ```
-    
+
     !!! info "Might help!" 
-        See [Directories and files](../../../main/pages/directories_and_files.md) for full directory overview.
+        See `asset` section in [Directories and files](../../main/pages/directories_and_files.md) for full directory overview.
+        
     
 - Provide links and navigations
 

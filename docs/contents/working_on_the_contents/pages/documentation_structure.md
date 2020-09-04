@@ -211,10 +211,6 @@ So the details that are to be included are :
 
 Any tutorials or external references that are to be taken under consideration.
 
-### Appendix
-The appendix helps provide the full insight overall technologies and concepts used by the particular module. 
-
-
 ## Sample documentations
 
 1. [Notification system](../../sample_documentations/notification/pages/notification.md)

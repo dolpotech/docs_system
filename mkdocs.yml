@@ -24,6 +24,29 @@ nav:
                   - admin: contents/sample_documentations/_sample_database/pages/users/admin.md
                   - guest: contents/sample_documentations/_sample_database/pages/users/guest.md
                   - user 2: contents/sample_documentations/_sample_database/pages/users/user_2.md
+  - Projects Documentations:
+      - Digital Profile:
+          - System Overview: contents//projects/digital_profile/architechture_overview/pages/introduction.md
+          - Setup: contents/projects/digital_profile/getting_started/pages/setup.md
+          - Get Started: contents/projects/digital_profile/getting_started/pages/starting.md
+          - Usage: contents/projects/digital_profile/getting_started/pages/usage.md
+          - Dashboard:
+              - Forms:
+                  - Tips: contents/projects/digital_profile/main/forms/pages/form_creation_tips.md
+                  - List: contents/projects/digital_profile/main/forms/pages/all_forms.md
+              - Users:
+                  - Permission:
+                      - koboform:
+                          - Sharing Form: contents/projects/digital_profile/main/users/pages/koboform_api.md
+                  - information:
+                      - User Detail: contents/projects/digital_profile/main/users/pages/user_detail.md
+              - Reports:
+                  - Report Page: contents/projects/digital_profile/main/reporting/pages/report_page.md
+                  - Report Data: contents/projects/digital_profile/main/reporting/pages/data_analysis.md
+                  - Report List: contents/projects/digital_profile/main/reporting/pages/report_list.md
+                  - Public Link: contents/projects/digital_profile/main/reporting/pages/public_link.md
+                  - Report Detail: contents/projects/digital_profile/main/reporting/pages/report_detail.md
+          - Issues: contents/projects/digital_profile/issues/pages/issues.md
 
 
 #Configurations

@@ -13,3 +13,15 @@ When creating repeating groups, there might be some cases where we would not wan
 Every values in the select option should be textual format rather than integer or decimal format and each and every option value’s or question’s name should be unique throughout the form.
 
 
+# getting koboforms form edit url using dashboard system
+step1: get form id_string from ReadOnlyKobocatXform
+
+Step2: get id from form submission instance id
+
+step3: form the url of following pattern
+
+id_string =a6KsgAxLV5M3SNsrV3M78D
+
+instance_id =364
+
+http://digitalprofile.qbitsx.com/en/edit-data/a6KsgAxLV5M3SNsrV3M78D/364
